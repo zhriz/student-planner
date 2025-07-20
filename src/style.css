@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
